@@ -1,0 +1,6 @@
+[package]
+name="github.com/amirhnajafiz/sentinelrs"
+version="1.83.0"
+
+[dependencies]
+
