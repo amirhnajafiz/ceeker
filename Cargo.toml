@@ -1,6 +1,8 @@
 [package]
-name="github.com/amirhnajafiz/sentinelrs"
+name="sentinelrs"
 version="1.83.0"
 
 [dependencies]
+config = "0.15.11"
+dotenv = "0.15.0"
 
