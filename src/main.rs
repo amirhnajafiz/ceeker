@@ -1,7 +1,6 @@
 use config::Config;
 use serde::Deserialize;
 use dotenv::dotenv;
-use std::env;
 
 #[derive(Debug, Deserialize)]
 struct Settings {
